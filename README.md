@@ -46,9 +46,7 @@ Worked on cutting-edge **Generative AI** technologies:
   <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
-  <img alt="LangChain" src="https://raw.githubusercontent.com/hwchase17/langchain-hub/main/langchain.svg" width="40" height="40"/>
-  <img alt="Stable Diffusion" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Stable_Diffusion_logo.svg" width="40" height="40"/>
-  <img alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+ <img alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
   <img alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
   <img alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40" height="40"/>
   <img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
